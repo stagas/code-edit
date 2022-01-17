@@ -41,7 +41,7 @@ $ npm i code-edit
 
 ### CodeEditElement
 
-[src/index.ts:114-237](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L114-L237 "Source code on GitHub")
+[src/index.ts:114-237](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L114-L237 "Source code on GitHub")
 
 **Extends HTMLElement**
 
@@ -58,13 +58,13 @@ customElements.define('code-edit', CodeEditElement)
 
 ### HTMLCodeEditElement
 
-[src/index.ts:81-100](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L81-L100 "Source code on GitHub")
+[src/index.ts:81-100](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L81-L100 "Source code on GitHub")
 
 CodeEdit HTML/JSX Interface
 
 #### value
 
-[src/index.ts:83-83](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L83-L83 "Source code on GitHub")
+[src/index.ts:83-83](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L83-L83 "Source code on GitHub")
 
 The editor's value
 
@@ -72,7 +72,7 @@ Type: [string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Globa
 
 #### language
 
-[src/index.ts:85-85](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L85-L85 "Source code on GitHub")
+[src/index.ts:85-85](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L85-L85 "Source code on GitHub")
 
 Language for syntax highlighting
 
@@ -80,7 +80,7 @@ Type: [string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Globa
 
 #### syntax
 
-[src/index.ts:87-87](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L87-L87 "Source code on GitHub")
+[src/index.ts:87-87](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L87-L87 "Source code on GitHub")
 
 Passing a syntax definition regexp manually
 
@@ -88,7 +88,7 @@ Type: (SyntaxDefinition | [Promise](https://developer.mozilla.org/docs/Web/JavaS
 
 #### theme
 
-[src/index.ts:89-89](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L89-L89 "Source code on GitHub")
+[src/index.ts:89-89](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L89-L89 "Source code on GitHub")
 
 Theme to use
 
@@ -96,7 +96,7 @@ Type: [string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Globa
 
 #### tabsize
 
-[src/index.ts:91-91](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L91-L91 "Source code on GitHub")
+[src/index.ts:91-91](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L91-L91 "Source code on GitHub")
 
 Tab size
 
@@ -104,7 +104,7 @@ Type: [number](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Globa
 
 #### tabstyle
 
-[src/index.ts:93-93](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L93-L93 "Source code on GitHub")
+[src/index.ts:93-93](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L93-L93 "Source code on GitHub")
 
 Tab style
 
@@ -112,7 +112,7 @@ Type: (`"tabs"` | `"spaces"`)
 
 #### comments
 
-[src/index.ts:95-95](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L95-L95 "Source code on GitHub")
+[src/index.ts:95-95](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L95-L95 "Source code on GitHub")
 
 Comments are defined as a tuple-like string: '// /\* \*/' first item is single comment and second third are multiline comments
 
@@ -120,7 +120,7 @@ Type: [string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Globa
 
 #### autofocus
 
-[src/index.ts:97-97](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L97-L97 "Source code on GitHub")
+[src/index.ts:97-97](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L97-L97 "Source code on GitHub")
 
 Autofocus to the element when page loads
 
@@ -128,7 +128,7 @@ Type: [boolean](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Glob
 
 #### autoresize
 
-[src/index.ts:99-99](https://github.com/stagas/code-edit/blob/3197a209205cfb925aff383f72a1328d45d4bbfa/src/index.ts#L99-L99 "Source code on GitHub")
+[src/index.ts:99-99](https://github.com/stagas/code-edit/blob/db8497df918384c2627474bb5712ef64849df096/src/index.ts#L99-L99 "Source code on GitHub")
 
 Whether to autoresize to the height of the contents
 
