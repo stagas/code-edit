@@ -1,0 +1,127 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "style.scss": [],
+  "vite/preload-helper": [],
+  "node_modules/plenty-themes/_all.css": [],
+  "node_modules/code-syntax/themes/default.css": [],
+  "../../textarea-code/dist/esm/util.js": [],
+  "../../textarea-code/dist/esm/buffer.js": [],
+  "../../textarea-code/dist/esm/index.js": [],
+  "../dist/esm/index.js": [],
+  "client.ts": [],
+  "index.html": [],
+  "node_modules/construct-style-sheets-polyfill/dist/adoptedStyleSheets.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/constants.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/createUniqueTag.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/definitionsRegistry.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/polyfillCustomElementRegistry.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/ScopedCustomElementRegistry.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/cssTransform.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/htmlTransform.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/polyfillShadowRoot.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/HTMLCollection.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/polyfillElement.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/src/polyfillCSSStyleSheet.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/scoped-registries/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "../node_modules/code-syntax/node_modules/html-escaper/esm/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "../node_modules/code-syntax/dist/esm/syntax.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "../node_modules/code-syntax/dist/esm/element.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "../node_modules/code-syntax/dist/esm/util.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "../node_modules/code-syntax/dist/esm/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "../node_modules/debounce-micro/dist/esm/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "../node_modules/super-impose/dist/esm/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/html-escaper/esm/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/code-syntax/dist/esm/syntax.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/code-syntax/dist/esm/element.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/code-syntax/dist/esm/util.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/code-syntax/dist/esm/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/icon-svg/dist/esm/data.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/icon-svg/dist/esm/element.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/memoize-pure/dist/esm/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/icon-svg/dist/esm/fetch.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/icon-svg/dist/esm/types.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/icon-svg/dist/esm/index.js": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/plenty-themes/_names-dark.json": [
+    "/code-edit/assets/vendor.f38fc07f.js"
+  ],
+  "node_modules/code-syntax/languages/util.js": [
+    "/code-edit/assets/js.cd45a41c.js"
+  ],
+  "node_modules/code-syntax/languages/js.js": [
+    "/code-edit/assets/js.cd45a41c.js"
+  ],
+  "node_modules/code-syntax/languages/css.js": [
+    "/code-edit/assets/css.3c67e203.js"
+  ],
+  "node_modules/code-syntax/languages/html.js": [
+    "/code-edit/assets/html.0f5945b6.js"
+  ],
+  "pages/index.md": [
+    "/code-edit/assets/app.794dcd55.js"
+  ],
+  "app.ts": [
+    "/code-edit/assets/app.794dcd55.js"
+  ]
+}
