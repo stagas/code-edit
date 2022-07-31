@@ -25,6 +25,9 @@ pre {
 code-edit {
   margin: 15px;
   padding: 15px;
+  width: 300px;
+  height: 100px;
+  font-family: monospace;
   resize: both;
 }
 `
