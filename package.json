@@ -3,7 +3,7 @@
   "author": "stagas",
   "short": "stagas/code-edit",
   "description": "Lightweight code editor Web Component with syntax highlighting",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -84,15 +84,15 @@
     "typescript": "4.7.3",
     "utr": "^0.2.0",
     "vite": "^2.7.6",
-    "vite-open": "^2.4.0"
+    "vite-open": "^3.0.1"
   },
   "dependencies": {
-    "code-syntax": "^3.0.0",
+    "code-syntax": "^4.0.0",
     "get-element-offset": "^1.0.1",
     "relative-mouse": "^1.0.1",
-    "sigl": "^0.0.5",
-    "super-impose": "^3.0.0",
-    "textarea-code": "^3.0.0"
+    "sigl": "^1.0.0",
+    "super-impose": "^4.0.0",
+    "textarea-code": "^4.0.0"
   },
   "types": "./dist/types/index.d.ts"
 }
