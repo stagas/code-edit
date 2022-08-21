@@ -3,7 +3,7 @@ import 'plenty-themes/laser.css'
 
 import { CodeEditElement, languages } from '../src'
 
-languages.js = import('code-syntax/languages/js')
+languages.js = import('code-syntax/languages/js.js')
 customElements.define('code-edit', CodeEditElement)
 
 const style = document.createElement('style')
