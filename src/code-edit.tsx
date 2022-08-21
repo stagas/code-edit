@@ -92,7 +92,7 @@ code {
   line-height: inherit;
 }
 textarea::selection {
-  color: var(--color);
+  color: transparent;
   background-color: var(--selection) !important;
 }
 .shadow {
@@ -165,7 +165,7 @@ textarea::selection {
   margin-left: 0;
 } */
 :host([caretshift=backward]) [part=caret] {
-  margin-left: -5px;
+  margin-left: calc(var(--font-size) * -0.08);;
 }
 `
 
