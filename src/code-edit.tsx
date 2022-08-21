@@ -72,6 +72,7 @@ textarea {
   background: transparent;
   color: transparent;
   border: none;
+  scroll-behavior: smooth;
 }
 pre {
   left: 0;
@@ -129,6 +130,9 @@ textarea::selection {
 }
 [part=layout] {
   overflow: hidden !important;
+}
+[part=layout]::part(scroller) {
+  transition: all 65ms ease-out;
 }
 @keyframes blink {
   from,
